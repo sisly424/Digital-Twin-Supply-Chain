@@ -167,6 +167,19 @@ digital-twin-supply-chain/
 
 ---
 
+## Team
+
+Master of Business Analytics
+
+UBC Sauder School of Business
+
+- Sisly Lyu
+- Candice Miao
+- Xiaoxi Xu
+- Michael Ruizhe Zhang
+  
+---
+
 ## Future Improvements
 
 Potential future enhancements include:
